@@ -201,16 +201,16 @@ export default function Home() {
       {/* प्रकाशित कृतियाँ */}
       <div>
         <h2 className="text-2xl font-bold text-gray-800 dark:text-white mb-4">📚 प्रकाशित कृतियाँ</h2>
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-          <img src="/images/book1.jpg" alt="छंद संग्रह (आहट प्रत्यूष की)" className="rounded shadow" />
-          <img src="/images/book2.jpg" alt="मुक्तक संग्रह (उम्मीद सूरज निकलने की)" className="rounded shadow" />
-          <img src="/images/book3.jpg" alt="गजल संग्रह (गम यहां भी कम नहीं)" className="rounded shadow" />
-           <img src="/images/book1.jpg" alt="गजल संग्रह (धूप मरहम सी)" className="rounded shadow" />
-          <img src="/images/book2.jpg" alt="गजल संग्रह (पीर का गहरा समंदर)" className="rounded shadow" />
-          <img src="/images/book3.jpg" alt="गीत संग्रह (प्रीति की पांखुरी)" className="rounded shadow" />
-           <img src="/images/book1.jpg" alt="गीत संग्रह (आखिर गीत सुनाऊं कैसे)" className="rounded shadow" />
-          <img src="/images/book2.jpg" alt="दोहा संग्रह (नेह के नूपुर) दोहा शतसई " className="rounded shadow" />
-          <img src="/images/book3.jpg" alt="गजल संग्रह (तार-तार टूटते रहे) " className="rounded shadow" />
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+          <img src="/images/aahatpratustki.jpeg" alt="छंद संग्रह (आहट प्रत्यूष की)" className="rounded shadow" />
+          <img src="/images/ummidsuraj.jpeg" alt="मुक्तक संग्रह (उम्मीद सूरज निकलने की)" className="rounded shadow" />
+          <img src="/images/gamyhayh bhi km nhi.jpeg" alt="गजल संग्रह (गम यहां भी कम नहीं)" className="rounded shadow" />
+           <img src="/images/dhupmlhumse.jpeg" alt="गजल संग्रह (धूप मरहम सी)" className="rounded shadow" />
+          <img src="/images/peerkasamundr.jpeg" alt="गजल संग्रह (पीर का गहरा समंदर)" className="rounded shadow" />
+          <img src="/images/preetke pashuri.jpeg" alt="गीत संग्रह (प्रीति की पांखुरी)" className="rounded shadow" />
+           <img src="/images/aakirgeetsunau.jpeg" alt="गीत संग्रह (आखिर गीत सुनाऊं कैसे)" className="rounded shadow" />
+          <img src="/images/nehkenupur.jpeg" alt="दोहा संग्रह (नेह के नूपुर) दोहा शतसई " className="rounded shadow" />
+          <img src="/images/tartar tutterhe.jpeg" alt="गजल संग्रह (तार-तार टूटते रहे) " className="rounded shadow" />
           <img src="/images/book3.jpg" alt="मुक्तक संग्रह (प्यार की सँकरी गली में)" className="rounded shadow" />
         </div>
       </div>
