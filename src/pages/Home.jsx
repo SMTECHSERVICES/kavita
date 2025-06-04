@@ -214,6 +214,22 @@ export default function Home() {
           <img src="/images/book3.jpg" alt="मुक्तक संग्रह (प्यार की सँकरी गली में)" className="rounded shadow" />
         </div>
       </div>
+      {/* साझा संकलन */}
+      <div>
+        <h2 className="text-2xl font-bold text-gray-800 dark:text-white mb-4">📚 साझा संकलन </h2>
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+          <img src="/images/सुकवि सतक.jpeg" alt="सुकवि सतक" className="rounded shadow" />
+          <img src="/images/सुकवि पंचरत्न .jpeg" alt="सुकवि पंचरत्न " className="rounded shadow" />
+          <img src="/images/साक्षात्कार -आइने के सामने.jpeg" alt="साक्षात्कार -आइने के सामने " className="rounded shadow" />
+           <img src="/images/गजलाष्टक.jpeg" alt="गजलाष्टक" className="rounded shadow" />
+          <img src="/images/55हिंदुस्तानी ग़ज़लें.jpeg" alt="55हिंदुस्तानी ग़ज़लें " className="rounded shadow" />
+          <img src="/images/काव्य कल्पतरु .jpeg" alt="काव्य कल्पतरु " className="rounded shadow" />
+           <img src="/images/सुकवि सप्तक.jpeg" alt="सुकवि सप्तक" className="rounded shadow" />
+          <img src="/images/दो किनारे .jpeg" alt="दो किनारे  " className="rounded shadow" />
+          <img src="/images/100सुकवि(संदर्भ ग्रंथ).jpeg" alt="100सुकवि(संदर्भ ग्रंथ)" className="rounded shadow" />
+          <img src="/images/book3.jpg" alt="52 चर्चित हस्ताक्षर (सुकवि बावनी)" className="rounded shadow" />
+        </div>
+      </div>
 
       {/* खोज और कविताएँ */}
       <div>
