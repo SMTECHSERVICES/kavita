@@ -59,7 +59,7 @@ export default function Home() {
 
       {/* कवि बालेन्दु प्रभाकर मिश्र */}
       <div className="flex flex-col md:flex-row gap-6 items-center bg-white dark:bg-gray-900 p-6 rounded-lg shadow">
-        <img src="./images/balendu-mishra.png" alt="कवि बालेन्दु प्रभाकर मिश्र " className="w-40 h-40 rounded-full object-cover border-4 border-yellow-400" />
+        <img src="/images/balendu-mishra.png" alt="कवि बालेन्दु प्रभाकर मिश्र " className="w-40 h-40 rounded-full object-cover border-4 border-yellow-400" />
         <div>
           <h3 className="text-xl font-bold text-gray-800 dark:text-white">कवि बालेन्दु प्रभाकर मिश्र </h3>
           <p className="text-gray-700 dark:text-gray-300 mt-2">
